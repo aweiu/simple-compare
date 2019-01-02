@@ -1,0 +1,29 @@
+{
+  "name": "simple-compare",
+  "version": "1.0.0",
+  "description": "简单的 JS 对象比较器",
+  "keywords": [
+    "compare",
+    "diff"
+  ],
+  "main": "dist/index.js",
+  "typings": "types/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweiu/simple-compare.git"
+  },
+  "author": "aweiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweiu/simple-compare/issues"
+  },
+  "homepage": "https://github.com/aweiu/simple-compare#readme",
+  "devDependencies": {
+    "tslint": "^5.12.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.2.2"
+  }
+}
