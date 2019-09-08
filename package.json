@@ -1,6 +1,6 @@
 {
   "name": "simple-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "简单的 JS 对象比较器",
   "keywords": [
     "compare",
